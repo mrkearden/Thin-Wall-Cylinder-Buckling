@@ -1,0 +1,8 @@
+! ----- names for bodies -----
+$ body = 1
+! ----- names for boundaries -----
+$ bnry2 = 1
+$ top = 2
+$ bottom = 3
+$ Group_1 = 4
+$ Group_2 = 5
